@@ -72,9 +72,9 @@ body {
 }
 
 #column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+	float: left;
+	width: 33.33%;
+	padding: 5px;
 }
 
 #column1 {
@@ -94,9 +94,9 @@ body {
 }
 
 #row::after {
-  content: "";
-  clear: both;
-  display: table;
+	content: "";
+	clear: both;
+	display: table;
 }
 
 #footer
