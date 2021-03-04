@@ -71,6 +71,12 @@ body {
 	padding-bottom:5px;
 }
 
+#column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
 #column1 {
 	float: left;
 	width: 75%
@@ -85,6 +91,12 @@ body {
 	content: "";
 	display: table;
 	clear: both;
+}
+
+#row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 #footer
