@@ -77,6 +77,11 @@ body {
 	padding: 5px;
 }
 
+#splitColumn {
+	float: left;
+	width: 50%
+}
+
 #column1 {
 	float: left;
 	width: 75%
