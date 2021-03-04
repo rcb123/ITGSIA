@@ -164,3 +164,9 @@ html, body {
 p {
 	text-align: left;
 }
+
+#id_name, #id_email, #id_number, #id_feedback 
+{
+	color: red;
+	font-size: 16px;
+}
