@@ -157,6 +157,14 @@ body {
 	font-size: 16px;
 }
 
+#splitColumn li
+{
+	display: block;
+	text-align: center;
+	margin-left: -40px;
+	font-size: 16px;
+}
+
 html, body {
 	text-align: center;
 }
